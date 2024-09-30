@@ -21,6 +21,7 @@ Este proyecto está construido con las siguientes tecnologías:
 - **Subida de Productos**: Los usuarios pueden publicar productos de segunda mano para la venta.
 - **Sistema de Valoraciones**: Después de una compra, los usuarios pueden valorar al vendedor, fomentando la confianza y la reputación.
 - **Sistema de Ranking**: Muestra qué usuarios han contribuido más a la aplicación mediante la venta y valoración de productos.
+- **Sistema de Favoritos**: Permite al usuario guardar productos en favoritos.
 - **Interfaz Responsive**: Diseño adaptable a diferentes dispositivos y tamaños de pantalla.
 - **Búsqueda y Filtrado**: Permite a los usuarios buscar productos por categoría, precio, ubicación, etc.
 - **Panel de Administración**: Gestión de usuarios, productos y valoraciones para administradores.
@@ -29,4 +30,11 @@ Este proyecto está construido con las siguientes tecnologías:
 
 Aquí puedes ver algunas capturas de pantalla de la aplicación funcionando:
 
+![Página Principal](ImagenesEjemplo/Inicio.png)
+*Página principal de la tienda online.*
 
+![Subida de Producto](ImagenesEjemplo/Producto.png)
+*Vista de un producto.*
+
+![Perfil de Usuario](ImagenesEjemplo/Productos_perfil.png)
+*Perfil del usuario con sus productos*
